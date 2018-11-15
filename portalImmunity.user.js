@@ -2,7 +2,7 @@
 // @id             iitc-plugin-portal-immunity
 // @name           IITC plugin: Portal Immunity
 // @category       Layer
-// @version        0.3.0.20150000.00000
+// @version        0.3.0.20150000.00001
 // @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
 // @updateURL      https://github.com/nobotta98/ingress-test/raw/master/portalImmunity.user.js
 // @downloadURL    https://github.com/nobotta98/ingress-test/raw/master/portalImmunity.user.js
