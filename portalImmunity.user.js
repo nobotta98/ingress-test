@@ -26,7 +26,7 @@ function wrapper(plugin_info) {
 //PLUGIN AUTHORS: writing a plugin outside of the IITC build environment? if so, delete these lines!!
 //(leaving them in place might break the 'About IITC' page or break update checks)
     plugin_info.buildName = 'unknown';
-    plugin_info.dateTimeVersion = '20150000.000000';
+    plugin_info.dateTimeVersion = '20150000.000002';
     plugin_info.pluginId = 'portal-immunity';
 //END PLUGIN AUTHORS NOTE
 
