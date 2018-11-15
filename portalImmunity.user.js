@@ -4,8 +4,8 @@
 // @category       Layer
 // @version        0.3.0.20150000.000001
 // @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
-// @updateURL      https://ingress-test.sakura.ne.jp/release/plugin/portal_immunity/portalImmunity.user.js
-// @downloadURL    https://ingress-test.sakura.ne.jp/release/plugin/portal_immunity/portalImmunity.user.js
+// @updateURL      https://github.com/nobotta98/ingress-test/raw/master/portalImmunity.user.js
+// @downloadURL    https://github.com/nobotta98/ingress-test/raw/master/portalImmunity.user.js
 // @description    Show portal portal immunity the map.
 // @include        https://*.ingress.com/intel*
 // @include        http://*.ingress.com/intel*
